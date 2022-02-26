@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Node.js and backend development**
 
-- 💬 Ask me about **startups, entrepreneurship, fishing, & flying**
+- 💬 Ask me about **programming, startups, entrepreneurship, fishing, hiking & flying**
 
 - 📫 How to reach me **syehassan@gmail.com**
 
