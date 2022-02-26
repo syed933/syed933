@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syed!</h1>
 <h3 align="center">I'm an Entrepreneur, Developer, and Designer who loves building things.</h3>
 
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/72766010/155862365-d5f9189f-c662-488f-a16f-89995a9bb8f2.gif" width="500" height="320" />
+
+
 - 🔭 I’m currently working on [my dev/design studio & a few Full Stack MERN projects](https://www.pcre8ive.com)
 
 - 🌱 I’m currently learning **Three.js & the MERN stack**
