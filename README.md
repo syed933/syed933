@@ -18,6 +18,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/syed-hassan1540/](https://www.linkedin.com/in/syed-hassan1540/)
 
+- 😄 Pronouns: He/Him
+
 - ⚡ Fun fact **I'm a pilot, lived in Italy playing D1 soccer when I was younger, & speak 4 languages**
 
 <h3 align="left">Connect with me:</h3>
