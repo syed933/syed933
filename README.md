@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [my dev/design studio & a few Full Stack MERN projects](https://www.pcre8ive.com)
 
-- 🌱 I’m currently learning **Three.jsk**
+- 🌱 I’m currently learning **Three.js**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
