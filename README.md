@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **programming, startups, entrepreneurship, fishing, hiking & flying**
 
-- 📫 How to reach me **https://www.linkedin.com/in/syed-hassan1540/**
+- 📫 How to reach me **(424)354-9764**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/syed-hassan1540/](https://www.linkedin.com/in/syed-hassan1540/)
 
