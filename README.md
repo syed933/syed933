@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 📱 I’m looking to collaborate on **open source projects**
 
 - 🤝 I’m looking for help with **Node.js and backend development**
 
